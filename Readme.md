@@ -1,5 +1,12 @@
 #Readme
 
-This is Adeolakay readme file
+#Adeola Kay
 
-This is cool
+An Educational and Tourism Website
+
+##Features
+- Home
+- Education
+- Tourism
+- About
+- Contact
